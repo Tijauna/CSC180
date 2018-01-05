@@ -1,0 +1,10 @@
+As with lab2, copy my redfibo_ref.pyc and tb_redfibo.py to wherever you keep your redfibo.py
+(e.g., cp redfibo_ref.pyc ~/lab3; cp tb_redfibo.py ~/lab3)
+
+then run the following to run some preliminary tests:
+python tb_redfibo.py
+
+Your score should be 100.0% if all correct ... otherwise, you'll see the percentage of
+what you got correct
+
+
