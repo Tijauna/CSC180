@@ -1,4 +1,4 @@
-# CSC180 Work September-December 2017
+# CSC180 Work September to December 2017
 
 Lab 1 - Intro to basic Python functions (eg. computing pi, babylonian sqrt)
 
